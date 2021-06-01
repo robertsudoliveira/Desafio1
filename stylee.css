@@ -1,0 +1,15 @@
+#paragrafos {
+  color: rgb(70, 55, 55);
+  background-image: url(./Imagens.jpg/backgound-color.jpg);
+  background-attachment: fixed;
+  background-repeat: repeat-x repeat-y;
+  margin-top: 70px;
+}
+h1{
+
+  padding-left: 550px;
+  border-color: blueviolet;
+  border-style: solid;
+  border-radius: 5px;
+
+}
